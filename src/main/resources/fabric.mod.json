@@ -3,13 +3,13 @@
 	"id": "zombify",
 	"version": "${version}",
 	"name": "Zombify",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Change zombification chance to 100%.",
 	"authors": [
-		"Me!"
+		"Alexander Ellul"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/aellul27/zombify-minecraft-mod",
+		"sources": "https://github.com/aellul27/zombify-minecraft-mod"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/zombify/icon.png",
